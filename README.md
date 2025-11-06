@@ -1,3 +1,5 @@
+Participantes: Enzo Casanovas
+
 🎓 Sistema de Administración de Estudiantes – Angular
 
 Aplicación web desarrollada en Angular que permite gestionar estudiantes de manera completa. Incluye un diseño con estilo glassmorphism y todas las operaciones CRUD.
@@ -98,4 +100,4 @@ Fuentes: Inter y Poppins de Google Fonts
 
 Paleta de colores: Tonos profesionales con buen contraste
 
-Participantes: Enzo Casanovas
+
